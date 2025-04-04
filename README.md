@@ -1,1 +1,1 @@
-# github-principles
+# github-principle
